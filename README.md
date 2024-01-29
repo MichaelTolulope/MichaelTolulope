@@ -1,5 +1,7 @@
+<h1>Michael Tolulope</h1>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
@@ -21,12 +23,9 @@
 I am a Enthusiastic Full Stack Developer creating smart and effective software solutions.. Currently, **I'm open to work and employment opportunities**.
 
 
-I love to read books and listen to music.
-
-
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about React.js, Express.js,MongoDB,Nodejs, and API development.
+- 💬 Ask me about Java, Spring, React.js, Express.js,MongoDB,Nodejs, and API development.
 - 📫 I am just one mail away - [olagunjum99@gmail.com]
 - 😄 Pronouns: He's blessed 😇
 
