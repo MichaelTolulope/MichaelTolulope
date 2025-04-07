@@ -27,7 +27,6 @@ I am a Enthusiastic Full Stack Developer creating smart and effective software s
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about Java, Spring, React.js, Express.js,MongoDB,Nodejs, and API development.
 - 📫 I am just one mail away - [olagunjum99@gmail.com]
-- 😄 Pronouns: He's blessed 😇
 
 
 ### Where to find me
