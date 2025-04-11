@@ -1,4 +1,4 @@
-<h1>Michael Tolulope</h1>
+<h1>Michael Tolulope Olagunju</h1>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=black)
@@ -25,7 +25,7 @@ I am a Enthusiastic Full Stack Developer creating smart and effective software s
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Java, Spring, React.js, Express.js,MongoDB,Nodejs, and API development.
+- 💬 Ask me about Java, Spring, React.js, Express.js,MongoDB,Nodejs, React native, and API development.
 - 📫 I am just one mail away - [olagunjum99@gmail.com]
 
 
